@@ -12,21 +12,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-501c1ab1-b39b-4b2e-b9ee-5e62d3275585" class="screen growth-both devWeb canvas PORTRAIT firer commentable non-processed" alignment="center" name="Screen 3" width="1920" height="1080">\
+    <div id="s-c980eb50-7ee4-41a3-bf76-80754a833b0e" class="screen growth-both devWeb canvas PORTRAIT firer commentable non-processed" alignment="center" name="Screen 4" width="1920" height="1080">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/501c1ab1-b39b-4b2e-b9ee-5e62d3275585-1633596067424.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/501c1ab1-b39b-4b2e-b9ee-5e62d3275585-1633596067424-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/501c1ab1-b39b-4b2e-b9ee-5e62d3275585-1633596067424-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/c980eb50-7ee4-41a3-bf76-80754a833b0e-1633596067424.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/c980eb50-7ee4-41a3-bf76-80754a833b0e-1633596067424-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/c980eb50-7ee4-41a3-bf76-80754a833b0e-1633596067424-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
-      <div id="s-Image_1" class="pie image firer ie-background commentable non-processed" customid="Image 1"   datasizewidth="610.0px" datasizeheight="400.0px" dataX="-0.0" dataY="162.0"   alt="image">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-        		<img src="./images/cb2de05e-c59c-4738-9273-71a5750f0707.png" />\
-        	</div>\
-        </div>\
-      </div>\
-\
       <div id="s-Paragraph_6" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="762.0" dataY="243.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
@@ -42,124 +34,6 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_7" class="pie richtext manualfit firer ie-background commentable non-processed" customid="BIROJA ADRESE:JŪRKALNES I"   datasizewidth="593.0px" datasizeheight="475.0px" dataX="703.3" dataY="162.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_7_0">BIROJA ADRESE:<br /><br /></span><span id="rtr-s-Paragraph_7_1">JŪRKALNES IELA 2 A, RĪGA, LV-1046 <br /></span><span id="rtr-s-Paragraph_7_2"><br /></span><span id="rtr-s-Paragraph_7_3">DARBA LAIKS:<br /><br /></span><span id="rtr-s-Paragraph_7_4">8.00 - 20.00 (P.-Sv.)<br /></span><span id="rtr-s-Paragraph_7_5"><br /></span><span id="rtr-s-Paragraph_7_6">E-PASTS:<br /><br /></span><span id="rtr-s-Paragraph_7_7">INFO@ARBETS.LV<br /></span><span id="rtr-s-Paragraph_7_8"><br /></span><span id="rtr-s-Paragraph_7_9">SAZIŅAI:<br /><br />GUNTARS VESTMANIS<br /></span><span id="rtr-s-Paragraph_7_10">(VALDES PRIEK&Scaron;ĒDĒTĀJS)<br />+37129288978<br /></span><span id="rtr-s-Paragraph_7_11"><br /></span><span id="rtr-s-Paragraph_7_12">RAIVO ĀBELE<br /></span><span id="rtr-s-Paragraph_7_13">(PROJEKTU VADĪTĀJS)<br />+37126534108</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_8" class="pie richtext manualfit firer ie-background commentable non-processed" customid="REKVIZĪTI:SABIEBRĪBA AR I"   datasizewidth="556.0px" datasizeheight="412.0px" dataX="35.0" dataY="645.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_8_0">REKVIZĪTI:<br /><br />SABIEBRĪBA AR IEROBEŽOTU ATBILDĪBU &quot;ARBETS&quot; <br /><br />REĢISTRĀCIJAS NR.<br /></span><span id="rtr-s-Paragraph_8_1">40103295073</span><span id="rtr-s-Paragraph_8_2"> <br /><br />JURIDISKĀ ADRESE:<br /></span><span id="rtr-s-Paragraph_8_3">MAK&Scaron;A IELA 3, RĪGA, LV-1004<br /></span><span id="rtr-s-Paragraph_8_4"> <br />BIROJA ADRESE:<br /></span><span id="rtr-s-Paragraph_8_5">JŪRKALNES IELA 2 A, RĪGA, LV-1046<br /></span><span id="rtr-s-Paragraph_8_6"><br /></span><span id="rtr-s-Paragraph_8_7">NORĒĶINU KONTI:<br /></span><span id="rtr-s-Paragraph_8_8">BANKA: A/S &quot;SWEDBANK&quot; <br />KONTA NR. LV46HABA0551028382262<br /><br /></span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_10" class="pie richtext manualfit firer ie-background commentable non-processed" customid="PARTNERI"   datasizewidth="551.0px" datasizeheight="126.0px" dataX="632.0" dataY="994.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_10_0">PARTNERI<br /> </span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-\
-      <div id="s-Image_2" class="pie image firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="360.0px" datasizeheight="94.0px" dataX="272.0" dataY="1097.0"   alt="image">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-        		<img src="./images/2594d3e7-ebea-4a2d-b1cb-24de831523fb.png" />\
-        	</div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Image_4" class="pie image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="300.0px" datasizeheight="67.0px" dataX="753.0" dataY="1110.0"   alt="image">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-        		<img src="./images/83136ba0-28e8-4d5c-8166-2d9fbacef7ae.png" />\
-        	</div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Image_5" class="pie image firer ie-background commentable non-processed" customid="Image 5"   datasizewidth="107.0px" datasizeheight="89.0px" dataX="1207.0" dataY="1092.0"   alt="image">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-        		<img src="./images/991993c7-54fc-4fa3-bff7-c75e35599549.png" />\
-        	</div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Image_6" class="pie image firer ie-background commentable non-processed" customid="Image_4"   datasizewidth="98.0px" datasizeheight="104.0px" dataX="27.0" dataY="1092.0"   alt="image" systemName="./images/3dc71240-72e2-4d3b-9d82-316d20cba412.svg" overlay="#F3AD00">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="27px" version="1.1" viewBox="0 0 15 27" width="15px">\
-          	    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
-          	    <title>Arrow Left</title>\
-          	    <desc>Created with Sketch.</desc>\
-          	    <defs />\
-          	    <g fill="none" fill-rule="evenodd" id="s-Image_6-Page-1" stroke="none" stroke-width="1">\
-          	        <g fill="#DDDDDD" id="s-Image_6-Components" transform="translate(-430.000000, -1276.000000)">\
-          	            <g id="s-Image_6-Arrow-Left" transform="translate(429.000000, 1276.000000)">\
-          	                <polyline points="1.157 0 0 1.144 12.325 13.62 0 25.691 1.325 27 15 13.691 1.157 0" transform="translate(8.000000, 14.000000) scale(-1, 1) translate(-8.000000, -14.000000) " style="fill:#F3AD00 !important;" />\
-          	            </g>\
-          	        </g>\
-          	    </g>\
-          	</svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-\
-\
-      <div id="s-Image_7" class="pie image firer ie-background commentable non-processed" customid="Image_5"   datasizewidth="98.0px" datasizeheight="104.0px" dataX="1484.0" dataY="1092.0"   alt="image" systemName="./images/79074014-2460-4b1a-8ee0-9a882a92f57e.svg" overlay="#F3AD00">\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="27px" version="1.1" viewBox="0 0 15 27" width="15px">\
-          	    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->\
-          	    <title>Arrow Right</title>\
-          	    <desc>Created with Sketch.</desc>\
-          	    <defs />\
-          	    <g fill="none" fill-rule="evenodd" id="s-Image_7-Page-1" stroke="none" stroke-width="1">\
-          	        <g fill="#DDDDDD" id="s-Image_7-Components" transform="translate(-463.000000, -1276.000000)">\
-          	            <g id="s-Image_7-Arrow-Right" transform="translate(463.000000, 1276.000000)">\
-          	                <polyline points="1.157 0 0 1.144 12.325 13.62 0 25.691 1.325 27 15 13.691 1.157 0" style="fill:#F3AD00 !important;" />\
-          	            </g>\
-          	        </g>\
-          	    </g>\
-          	</svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-\
 \
       <div id="s-Group_104" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="1024.0px" datasizeheight="150.0px" >\
         <div id="s-Rectangle_1" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="1429.0px" datasizeheight="150.0px" datasizewidthpx="1429.0000000000002" datasizeheightpx="150.0" dataX="0.0" dataY="0.0" >\
@@ -184,10 +58,10 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             	<svg xmlns="http://www.w3.org/2000/svg" width="2.0" height="64.70938110351562" viewBox="562.0000244140626 52.50000076293945 2.0 64.70938110351562" preserveAspectRatio="none">\
             	  <g>\
             	    <defs>\
-            	      <path id="s-Line_1-501c1" d="M563.0 116.70937499999997 L563.0 53.0 "></path>\
+            	      <path id="s-Line_1-c980e" d="M563.0 116.70937499999997 L563.0 53.0 "></path>\
             	    </defs>\
             	    <g>\
-            	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Line_1-501c1" fill="none" stroke-width="1.0" stroke="#201F1F7F" stroke-linecap="butt" filter="none"></use>\
+            	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Line_1-c980e" fill="none" stroke-width="1.0" stroke="#201F1F7F" stroke-linecap="butt" filter="none"></use>\
             	    </g>\
             	  </g>\
             	</svg>\
@@ -217,10 +91,10 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             	<svg xmlns="http://www.w3.org/2000/svg" width="2.0" height="61.265628814697266" viewBox="958.9999755859376 52.49999923706054 2.0 61.265628814697266" preserveAspectRatio="none">\
             	  <g>\
             	    <defs>\
-            	      <path id="s-Line_2-501c1" d="M960.0 113.26562499999994 L960.0 53.0 "></path>\
+            	      <path id="s-Line_2-c980e" d="M960.0 113.26562499999994 L960.0 53.0 "></path>\
             	    </defs>\
             	    <g>\
-            	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Line_2-501c1" fill="none" stroke-width="1.0" stroke="#201F1F7F" stroke-linecap="butt" filter="none"></use>\
+            	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Line_2-c980e" fill="none" stroke-width="1.0" stroke="#201F1F7F" stroke-linecap="butt" filter="none"></use>\
             	    </g>\
             	  </g>\
             	</svg>\
@@ -259,7 +133,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_3" class="pie image firer ie-background commentable non-processed" customid="Image_3"   datasizewidth="17.0px" datasizeheight="13.0px" dataX="1392.0" dataY="77.0"   alt="image" systemName="./images/37eda196-5973-4d4d-ac50-abf2b8c30832.svg" overlay="#201F1F">\
+        <div id="s-Image_3" class="pie image firer ie-background commentable non-processed" customid="Image_3"   datasizewidth="17.0px" datasizeheight="13.0px" dataX="1402.0" dataY="77.0"   alt="image" systemName="./images/0df0442a-dab5-4d22-a721-7fdefbea1361.svg" overlay="#201F1F">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -283,7 +157,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Paragraph_5" class="pie richtext autofit firer ie-background commentable non-processed" customid="LV"   datasizewidth="60.2px" datasizeheight="55.0px" dataX="1317.0" dataY="53.0" >\
+        <div id="s-Paragraph_5" class="pie richtext autofit firer ie-background commentable non-processed" customid="LV"   datasizewidth="60.2px" datasizeheight="55.0px" dataX="1327.0" dataY="53.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -298,10 +172,40 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
+        <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="ZC"   datasizewidth="52.5px" datasizeheight="44.0px" dataX="1237.0" dataY="89.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Paragraph_8_0">ZC</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
       </div>\
 \
+      <div id="s-Paragraph_7" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="1.0px" datasizeheight="1.0px" dataX="1200.0" dataY="68.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_7_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
 \
-      <div id="s-Image_35" class="pie image firer ie-background commentable non-processed" customid="Image_35"   datasizewidth="27.0px" datasizeheight="38.0px" dataX="1240.0" dataY="65.0"   alt="image" systemName="./images/804f756d-592b-4505-8cee-b06bf59e5119.svg" overlay="#F3AD00">\
+      <div id="s-Image_35" class="pie image firer ie-background commentable non-processed" customid="Image_35"   datasizewidth="27.0px" datasizeheight="38.0px" dataX="1250.0" dataY="49.5"   alt="image" systemName="./images/f6089920-3319-4f44-9f07-d145c71ca9d2.svg" overlay="#F3AD00">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
@@ -321,8 +225,56 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         </div>\
       </div>\
 \
+      <div id="s-Rectangle_2" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_1"   datasizewidth="609.0px" datasizeheight="472.0px" datasizewidthpx="609.0" datasizeheightpx="472.0" dataX="410.0" dataY="355.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_2_0">V I D E O</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_9" class="pie richtext manualfit firer ie-background commentable non-processed" customid="KLIENTA OBJEKTS"   datasizewidth="466.4px" datasizeheight="280.0px" dataX="481.3" dataY="103.5" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_9_0">KLIENTA OBJEKTS</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
 \
-      <div id="s-Image_8" class="pie image firer ie-background commentable non-processed" customid="Image_3"   datasizewidth="17.1px" datasizeheight="13.0px" dataX="920.0" dataY="80.0"   alt="image" systemName="./images/86f13302-1640-403a-bf81-f0a2afac15f6.svg" overlay="#201F1F">\
+      <div id="s-Image_26" class="pie image firer ie-background commentable non-processed" customid="Image_26"   datasizewidth="57.0px" datasizeheight="57.0px" dataX="686.0" dataY="562.5"   alt="image" systemName="./images/5fd7266c-abc9-43e2-986d-97d2fe15db05.svg" overlay="#FFFFFF">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg preserveAspectRatio=\'none\' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="57px" version="1.1" viewBox="0 0 57 57" width="57px">\
+          	    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->\
+          	    <title>Combined Shape</title>\
+          	    <desc>Created with Sketch.</desc>\
+          	    <g fill="none" fill-rule="evenodd" id="s-Image_26-Page-1" stroke="none" stroke-width="1">\
+          	        <path d="M46.9324558,46.9498961 C51.857426,42.0257767 54.5692648,35.4782633 54.5682442,28.5133737 C54.5682442,14.1330394 42.8725245,2.43374687 28.496614,2.43374687 C14.1184916,2.43374687 2.42107075,14.1330394 2.42107075,28.5133737 C2.42107075,42.8892842 14.1184916,54.5848334 28.496614,54.5848334 C35.4609931,54.5848334 42.0083364,51.8735051 46.9324558,46.9498961 Z M48.6461991,8.36208716 C54.0285304,13.7442484 56.9921901,20.900726 56.9913396,28.5133737 C56.9913396,44.2208722 44.2087066,56.9999319 28.496614,56.9999319 C12.7835006,56.9999319 1.70149254e-05,44.2208722 1.70149254e-05,28.5133737 C1.70149254e-05,12.8000901 12.7835006,0.0166065672 28.496614,0.0166065672 C36.1082409,0.0166065672 43.2640379,2.98043642 48.6461991,8.36208716 Z M36.4362247,27.9682344 C36.7886898,28.2099412 37.0017915,28.5897419 37,29.0016456 C37,29.4069248 36.7922956,29.7882542 36.4362247,30.0352266 L25.1595027,37.7513291 C24.9209802,37.9166001 24.6390081,38 24.3606418,38 C24.1473598,38 23.936061,37.9539687 23.7426108,37.862076 C23.2853976,37.6441492 23,37.2031999 23,36.7196165 L23,21.2787488 C23,20.8002611 23.2853976,20.3576133 23.7426108,20.1396865 C24.1962181,19.9200611 24.745559,19.9625254 25.1595027,20.2451678 L36.4362247,27.9682344 Z" fill="#CBCBCB" fill-rule="nonzero" id="s-Image_26-Combined-Shape" style="fill:#FFFFFF !important;" />\
+          	    </g>\
+          	</svg>\
+\
+          </div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_7" class="pie image firer ie-background commentable non-processed" customid="Image_3"   datasizewidth="17.1px" datasizeheight="13.0px" dataX="920.0" dataY="80.0"   alt="image" systemName="./images/3c17835d-f795-4b01-8f2f-929e5d27620d.svg" overlay="#201F1F">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
@@ -331,10 +283,10 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           	    <title>Arrow Left</title>\
           	    <desc>Created with Sketch.</desc>\
           	    <defs />\
-          	    <g fill="none" fill-rule="evenodd" id="s-Image_8-Page-1" stroke="none" stroke-width="1">\
-          	        <g fill="#CBCBCB" id="s-Image_8-Components" transform="translate(-658.000000, -518.000000)">\
-          	            <g id="s-Image_8-Inputs" transform="translate(100.000000, 498.000000)">\
-          	                <g id="s-Image_8-Arrow-Left" transform="translate(569.500000, 26.000000) rotate(270.000000) translate(-569.500000, -26.000000) translate(562.500000, 14.500000)">\
+          	    <g fill="none" fill-rule="evenodd" id="s-Image_7-Page-1" stroke="none" stroke-width="1">\
+          	        <g fill="#CBCBCB" id="s-Image_7-Components" transform="translate(-658.000000, -518.000000)">\
+          	            <g id="s-Image_7-Inputs" transform="translate(100.000000, 498.000000)">\
+          	                <g id="s-Image_7-Arrow-Left" transform="translate(569.500000, 26.000000) rotate(270.000000) translate(-569.500000, -26.000000) translate(562.500000, 14.500000)">\
           	                    <polyline points="1.7525625 0 0.8125 0.939714286 10.8265625 11.1878571 0.8125 21.1033214 1.8890625 22.1785714 13 11.2461786 1.7525625 0" transform="translate(6.906250, 11.089286) scale(-1, 1) translate(-6.906250, -11.089286) " style="fill:#201F1F !important;" />\
           	                </g>\
           	            </g>\
@@ -346,7 +298,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         </div>\
       </div>\
 \
-      <div id="s-Paragraph_11" class="pie richtext autofit firer ie-background commentable non-processed" customid="ARBETS"   datasizewidth="105.4px" datasizeheight="31.0px" dataX="39.0" dataY="112.2" >\
+      <div id="s-Paragraph_10" class="pie richtext autofit firer ie-background commentable non-processed" customid="ARBETS"   datasizewidth="105.4px" datasizeheight="31.0px" dataX="39.0" dataY="118.7" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -355,14 +307,14 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_11_0">ARBETS</span>\
+                <span id="rtr-s-Paragraph_10_0">ARBETS</span>\
               </div>\
             </div>\
           </div>\
         </div>\
       </div>\
 \
-      <div id="s-Image_12" class="pie image firer ie-background commentable non-processed" customid="Image 11"   datasizewidth="183.0px" datasizeheight="133.0px" dataX="0.0" dataY="10.8"   alt="image">\
+      <div id="s-Image_12" class="pie image firer ie-background commentable non-processed" customid="Image 11"   datasizewidth="183.0px" datasizeheight="133.0px" dataX="0.0" dataY="17.3"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/b4e5c435-6e48-4583-bc14-3047d50414e9.png" />\
